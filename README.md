@@ -1,0 +1,2 @@
+# TestGitLocalize
+GitLocalizeのテスト用ブランチ
